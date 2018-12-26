@@ -298,6 +298,10 @@ footer h1
         width: 95vw;
         margin: 0 2vw;
     }
+     #banniere_image{
+        margin: 15px 0;
+    }
+    
     header{
         display: grid;
     justify-content: center;
